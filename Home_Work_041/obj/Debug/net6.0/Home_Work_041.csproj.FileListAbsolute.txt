@@ -1,0 +1,15 @@
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.csproj.AssemblyReference.cache
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.AssemblyInfoInputs.cache
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.AssemblyInfo.cs
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.csproj.CoreCompileInputs.cache
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/bin/Debug/net6.0/Home_Work_041
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/bin/Debug/net6.0/Home_Work_041.deps.json
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/bin/Debug/net6.0/Home_Work_041.runtimeconfig.json
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/bin/Debug/net6.0/Home_Work_041.dll
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/bin/Debug/net6.0/Home_Work_041.pdb
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.dll
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/refint/Home_Work_041.dll
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.pdb
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/Home_Work_041.genruntimeconfig.cache
+/Users/veles/Desktop/Home_Work_Sem_6/Home_Work_041/obj/Debug/net6.0/ref/Home_Work_041.dll
